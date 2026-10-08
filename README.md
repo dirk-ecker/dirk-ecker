@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Hi, ich bin Dirk 👋
 
-You can use the [editor on GitHub](https://github.com/dirk-ecker/dirk-ecker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 🇸🇪 Über mich
+Ich bin Software-Entwickler und arbeite hauptberuflich an Web- und Desktop-Anwendungen im Steuer/ Finanz-Umfeld (TypeScript/Angular, Java, C++). Nebenbei experimentiere ich gerne mit neuen Technologien - von Alexa Skills über Vue/SolidJs bis hin zu kleinen Python-Tools für den Alltag.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 🇬🇧 About me
+I'm a software developer working on web and desktop applications in the tax/finance space (TypeScript/Angular, Java, C++). In my spare time I like to tinker with new tech – from Alexa skills to Vue/SolidJs and small Python utilities.
 
-### Markdown
+- 🔧 Currently focused on TypeScript / Vue / Python side projects
+- 🌑 Based in Germany
+- 💬 Languages: German (native), English
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### 🛠️ Tech Stack
 
-# Header 1
-## Header 2
-### Header 3
+![TypeScript](https://img.shields.io/badge/-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-%230059C9?style=flat-square&logo=c++&logoColor=white)
+![HTML5](https://img.shields.io/badge/-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### 📎 Ausgewählte Projekte / Featured Projects
 
-**Bold** and _Italic_ and `Code` text
+| Projekt | Beschreibung |
+|---|---|
+| [ebka-client](https://github.com/dirk-ecker/ebk-client) | eBay Kleinanzeigen / Classifieds API client (Python) |
+| [grafana-timestamp-image-panel](https://github.com/dirk-ecker/grafana-timestamp-image-panel) | Visual Grafana-Plugin, zeigt ein Bild zu einem ausgewählten Zeitpunkt (TypeScript) |
+| [solarwatcher](https://github.com/dirk-ecker/solarwatcher) | Monitoring für PV-Anlagen (Python, Vue) |
+| [pac-man](https://github.com/dirk-ecker/pac-man) | Pac-Man-Klon in Vanilla-JavaScript |
+| [nicate](https://github.com/dirk-ecker/nicate) | Simple WebSockets Server/Client Starter |
+| [vue-uplot](https://github.com/dirk-ecker/vue-uplot) | Vue-Wrapper für die uPlot-Charting-Bibliothek |
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 🕣️ Alexa Skills
+Eine Sammlung von selbst entwickelten Amazon Alexa Skills (siehe Repos mit Präfix `alexa-`), u.a. für Nachrichten, Spielpläne und Vokabel-Training.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dirk-ecker/dirk-ecker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 📨 Get in touch
+🐙 [@dirk-ecker](https://github.com/dirk-ecker)
